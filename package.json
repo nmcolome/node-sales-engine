@@ -1,7 +1,7 @@
 {
-  "name": "sales_engine",
+  "name": "node-sales-engine",
   "version": "1.0.0",
-  "description": "",
+  "description": "API sales data analysis tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

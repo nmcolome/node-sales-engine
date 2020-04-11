@@ -11,6 +11,7 @@
   "author": "Natalia Colome",
   "license": "MIT",
   "dependencies": {
+    "csv-parser": "^2.3.2",
     "express": "^4.17.1",
     "knex": "^0.20.13",
     "pg": "^8.0.2"
